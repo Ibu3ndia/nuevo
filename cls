@@ -1,3 +1,0 @@
-cls
-clear all
-clear
